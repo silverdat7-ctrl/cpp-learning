@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="age_check.cpp/age_check.cpp.vcxproj" />
+  <Project Path="bien_cpp.cpp/bien_cpp.cpp.vcxproj" />
+  <Project Path="count.cpp/count.cpp.vcxproj" />
+  <Project Path="profile.cpp/profile.cpp.vcxproj" />
+</Solution>
