@@ -3,8 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="age_check.cpp/age_check.cpp.vcxproj" />
-  <Project Path="bien_cpp.cpp/bien_cpp.cpp.vcxproj" />
-  <Project Path="count.cpp/count.cpp.vcxproj" />
-  <Project Path="profile.cpp/profile.cpp.vcxproj" />
+  <Project Path="age_check.cpp/age_check.cpp.vcxproj" Id="d4e0aca2-af94-47fc-a14f-d96b7607dba4" />
+  <Project Path="bien_cpp.cpp/bien_cpp.cpp.vcxproj" Id="4b248712-8a54-43b7-88fe-ee4aa028a278" />
+  <Project Path="count.cpp/count.cpp.vcxproj" Id="804abca7-317a-410a-972e-dfa4882b9be7" />
+  <Project Path="guess/guess.vcxproj" Id="32aa13fb-dd2b-4542-bd16-16a9dd5dc64c" />
+  <Project Path="guess2/guess2.vcxproj" Id="47a24d2b-16a1-4a02-a93f-c81c2c5a6463" />
+  <Project Path="profile.cpp/profile.cpp.vcxproj" Id="8bf8e742-51f3-4f78-be33-12512fa71cd9" />
 </Solution>
